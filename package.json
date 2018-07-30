@@ -1,0 +1,14 @@
+{
+  "name": "simple-biblioteca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Ticona Valdivia <nikolasgamertv@gmail.com> (https://twitter.com/nicolas_tvop)",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
